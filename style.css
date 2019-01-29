@@ -3,6 +3,17 @@
   height: 140px;
 }
 
+.fillVertical{
+  height: 100vh;
+}
+
+#contactDetails{
+  margin-top:100px;
+}
+
+#yesText{
+  margin-top: 100px;
+}
 
 .tue{
   background-color: #C92027;
@@ -12,11 +23,16 @@
   background-color: #01D05E;
 }
 
+#seimage{
+  height: 240px;
+  width: 240px;
+}
+
 #tuetext,#setext{
   margin-top: 10px;
 }
 
-body{
+.bodyPad{
   padding-top: 50px;
 }
 
