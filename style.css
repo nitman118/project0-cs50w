@@ -1,45 +1,45 @@
-.col-md-4>img{
+.col-md-4 > img {
   width: 140px;
   height: 140px;
 }
 
-.fillVertical{
+.fillVertical {
   height: 100vh;
 }
 
-#contactDetails{
-  margin-top:100px;
-}
-
-#yesText{
+#contactDetails {
   margin-top: 100px;
 }
 
-.tue{
+#yesText {
+  margin-top: 100px;
+}
+
+.tue {
   background-color: #C92027;
 }
 
-.se{
+.se {
   background-color: #01D05E;
 }
 
-#seimage{
+#seimage {
   height: 240px;
   width: 240px;
 }
 
-#tuetext,#setext{
+#tuetext, #setext {
   margin-top: 10px;
 }
 
-.bodyPad{
+.bodyPad {
   padding-top: 50px;
 }
 
-@media (max-width: 600px)
-{
-  body{
+@media (max-width: 600px) {
+  body {
     padding-top: 50px;
   }
-
 }
+
+/*# sourceMappingURL=style.css.map */
