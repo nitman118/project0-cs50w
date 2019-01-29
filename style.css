@@ -40,6 +40,10 @@
   body {
     padding-top: 50px;
   }
+
+  .fillVertical {
+    height: 10vh;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
